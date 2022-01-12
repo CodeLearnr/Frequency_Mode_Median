@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA13FrequencyModeMedian\bin\Debug\LA13FrequencyModeMedian.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA13FrequencyModeMedian\bin\Debug\LA13FrequencyModeMedian.exe
+D:\All files\Bow Valley\SODV9104\HW\LA13FrequencyModeMedian\bin\Debug\LA13FrequencyModeMedian.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA13FrequencyModeMedian\obj\Debug\LA13FrequencyModeMedian.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA13FrequencyModeMedian\obj\Debug\LA13FrequencyModeMedian.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA13FrequencyModeMedian\obj\Debug\LA13FrequencyModeMedian.exe
+D:\All files\Bow Valley\SODV9104\HW\LA13FrequencyModeMedian\obj\Debug\LA13FrequencyModeMedian.pdb
